@@ -1,0 +1,51 @@
+.maincontainer-footer{
+    display: flex;
+    flex-direction: row;
+    background-color:#172337;
+   justify-content: space-between;
+   color: white;
+   width: 100%;
+   
+}
+
+ul{
+    list-style: none;
+    font-size: small;
+    margin: 20px;
+}
+
+
+.colmailus{
+    display: flex;
+    flex-direction: row;
+    width: 45%;
+    padding: 20px;
+    font-size: small;
+}
+
+
+
+.footerlist{
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    padding: 40px 20px;
+}
+
+.mail, .raddress{
+    padding: 40px 20px;
+    font-size: smaller;
+}
+
+.col ul>li{
+    padding: 5px 0px;
+    font-size: smaller;
+}
+
+.lititle{
+    color: #878787;
+}
+
+.col{
+    padding: 0px 10px;
+}

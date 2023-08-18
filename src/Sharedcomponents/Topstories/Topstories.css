@@ -1,0 +1,28 @@
+.mostsearched{
+    font-size: small;
+    color:rgb(171, 171, 171);
+    margin: 10px;
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 10px;
+}
+
+.maincontainer-topstories{
+    background-color: #fff;
+}
+
+.articlediv{
+    padding: 10px;
+    margin: 10px;
+}
+
+.articlediv h4{
+    margin: 10px 0px;
+    font-size: medium;
+    color: gray;
+}
+
+.articlediv p{
+    font-size: smaller;
+    color:rgb(171, 171, 171);
+}
